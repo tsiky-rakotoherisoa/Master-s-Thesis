@@ -14,8 +14,8 @@ This project builds a system that estimates vehicle speed from video footage usi
 
 Two approaches were tested side by side:
 
-- **YOLO v3-tiny: **a deep learning object detector that finds vehicles in each video frame
-- **OpenVINO: **Intel's optimization toolkit that speeds up models to run on limited hardware
+- **YOLO v3-tiny:** a deep learning object detector that finds vehicles in each video frame
+- **OpenVINO:** Intel's optimization toolkit that speeds up models to run on limited hardware
 
 ## Why It Matters
 
