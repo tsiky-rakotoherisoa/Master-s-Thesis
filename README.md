@@ -2,20 +2,20 @@
 
 **A Comparative Analysis of OpenVINO and YOLO**
 
-Master's thesis in Data Science — AIMS Rwanda, 2025  
+Master's thesis in Mathematical Sciences - AIMS Rwanda, 2025  
 Supervisor: Prof. Abebe Geletu W. Selassie  
 Grade: Distinction
 
 ## What This Project Does
 
-This project builds a system that estimates vehicle speed from video footage using computer vision. It runs on a Raspberry Pi — a small, low-cost computer — making it practical for real-world deployment in places where high-end computing is not available.
+This project builds a system that estimates vehicle speed from video footage using computer vision. It runs on a Raspberry Pi, a small, low-cost computer - making it practical for real-world deployment in places where high-end computing is not available.
 
 ## What I Compared
 
 Two approaches were tested side by side:
 
-- **YOLO** — a deep learning object detector that finds vehicles in each video frame
-- **OpenVINO** — Intel's optimization toolkit that speeds up models to run on limited hardware
+- **YOLO v3-tiny: **a deep learning object detector that finds vehicles in each video frame
+- **OpenVINO: **Intel's optimization toolkit that speeds up models to run on limited hardware
 
 ## Why It Matters
 
