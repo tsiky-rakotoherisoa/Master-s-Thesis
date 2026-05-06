@@ -1,0 +1,25 @@
+# =============================================================================
+# Traffic Speed Estimation: YOLOv3-Tiny vs OpenVINO on Raspberry Pi
+# =============================================================================
+# Core
+numpy>=1.21.0
+
+# Computer Vision
+opencv-python>=4.8.0
+opencv-contrib-python>=4.8.0
+
+# Deep Learning
+torch>=2.0.0
+
+# ONNX (model conversion)
+onnx>=1.14.0
+onnxruntime>=1.15.0
+
+# OpenVINO (optimized inference on edge devices)
+openvino>=2024.0.0
+
+# System monitoring
+psutil>=5.9.0
+
+# Visualization (optional)
+matplotlib>=3.7.0
